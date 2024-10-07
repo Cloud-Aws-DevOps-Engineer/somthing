@@ -55,8 +55,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rushiwakhre&show_icons=true&theme=radical" alt="Rushikesh Wakhre's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cloud-Aws-DevOps-Engineer&show_icons=true&theme=radical" alt="Cloud-Aws-DevOps-Engineer GitHub Stats" />
 </p>
+
 
 ## 📫 Connect with Me
 
