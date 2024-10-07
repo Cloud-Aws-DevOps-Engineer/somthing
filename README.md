@@ -1,84 +1,64 @@
-# Rushikesh Wakhre
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Rushikesh+;I+hope+you're+doing+well;Enjoy+your+time+%3A)" alt="Typing SVG" />
+  </a>
+</p>
 
-**Email**: [wakhrerushi@gmail.com](mailto:wakhrerushi@gmail.com)  
-**Phone**: +91 8381041598  
-**LinkedIn**: [in/rushikesh-wakhre-aws-devops-engineer](https://www.linkedin.com/in/rushikesh-wakhre-aws-devops-engineer/)
+<p align="center">
+  <samp>
+    Hey, my name is <em>Rushikesh Wakhre</em> and I am a DevOps ⚙️ Engineer committed to improving the efficiency and effectiveness of software development and deployment processes. My extensive knowledge of cloud computing, containerization, and automation enables me to drive innovation and deliver high-quality results. I am dedicated to continuously expanding my skills by staying updated with the latest DevOps tools and methodologies, and I'm always looking for new ways to optimize workflows and improve software delivery. 🤖 :)
+  </samp>
+  <br />
+</p>
 
----
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishikeshops&theme=algolia" alt="rishikeshops" />
+</p>
 
-## SUMMARY
+<img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
 
-Motivated DevOps Engineer with a strong passion for leveraging expertise in cloud infrastructure, CI/CD pipelines, and automation to drive innovative projects. Seeking to apply knowledge of AWS, Jenkins, Docker, and Terraform in a dynamic team environment. Committed to continuous learning and professional development in the DevOps field.
+## :zap: Skills
 
----
+<p align="left">
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" height="70" />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" height="70" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" height="80" />
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif" height="80" />
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/ll.png" height="80" />
+  </a>
+  <a href="https://www.terraform.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
+  </a>
+  <a href="https://www.ansible.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" height="80" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" height="80" />
+  </a>
+  <a href="https://grafana.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="80" />
+  </a>
+  <a href="https://prometheus.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="80" />
+  </a>
+</p>
 
-## EXPERIENCE
+## 📊 GitHub Stats
 
-### AWS DevOps Engineer Intern  
-**Vionsys IT Solutions India Pvt. Ltd.**  
-_April 2024 - October 2024, Pune_
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishikeshops&show_icons=true&theme=radical" alt="Rushikesh's GitHub Stats" />
+</p>
 
-- Assisted in provisioning AWS infrastructure (EC2, S3, VPC) using Terraform for efficient resource management.
-- Configured Jenkins CI/CD pipelines for automated build and deployment processes.
-- Developed and deployed Docker containers on AWS EC2 instances for scalable application hosting.
-- Monitored application performance and system health using AWS CloudWatch.
-
----
-
-## PROJECTS
-
-### CI/CD Pipeline Setup with Jenkins on AWS
-- Configured Jenkins to automate the CI/CD pipeline for a web application.
-- Integrated Git for version control, triggering automated builds upon code changes.
-- Set up a Jenkins pipeline to build, test, and deploy the application on AWS EC2 instances.
-- Automated notifications using Slack for build status updates and integrated CloudWatch for performance monitoring.
-
-### EC2 Auto Scaling with VPC
-- Developed a scalable AWS infrastructure using EC2 and VPC with public and private subnets.
-- Configured security groups to manage inbound/outbound traffic securely.
-- Launched EC2 instances using a launch template and set up an Auto Scaling group based on CPU utilization.
-- Integrated CloudWatch alarms for performance monitoring and resource optimization.
-
-### Automated Web Application Deployment with CI/CD on AWS
-- Set up AWS infrastructure (EC2, S3, VPC) using Terraform for automated provisioning.
-- Designed and implemented a CI/CD pipeline with Jenkins for continuous integration and deployment.
-- Containerized the application using Docker and deployed it on AWS EC2 instances.
-- Monitored performance and system health with AWS CloudWatch.
-
----
-
-## EDUCATION
-
-**Bachelor of Computer Application**  
-Deogiri Institute Of Technology And Management Studies, Aurangabad  
-2023 | 79.98%
-
----
-
-## CERTIFICATIONS
-
-- **Linux Training** - [LinkedIn Learning]
-- **GitHub Essential Training** - [LinkedIn Learning]
-- **AWS Best Practices for Hybrid Cloud Adoption** - [AWS Skill Builder]
-- **Windows 11 for IT Support: Troubleshooting Basics** - [LinkedIn Learning]
-
----
-
-## SKILLS
-
-- **Cloud Computing**: AWS (EC2, VPC, Lambda, S3, IAM), Auto Scaling
-- **Security**: IAM roles, Security Groups, cloud security best practices
-- **DevOps Tools**: CI/CD (Jenkins, GitLab), Docker, Terraform
-- **Version Control**: Git, GitHub
-- **Configuration Management**: Ansible
-- **Monitoring**: AWS CloudWatch, Grafana
-- **Languages**: HTML, CSS, JavaScript, C
-- **Collaboration Tools**: Slack, Microsoft Teams
-- **Technical Support**: Network troubleshooting, hardware/software support, system monitoring, Windows PC maintenance
-
----
-
-## CONTACT ME
+## 📫 Connect with Me
 
 <p align="center">
   <a href="mailto:wakhrerushi@gmail.com">
