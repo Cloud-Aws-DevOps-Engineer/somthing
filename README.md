@@ -6,7 +6,7 @@
 
 <p align="center">
   <samp>
-    Hey, my name is <em>Rushikesh Wakhre</em> and I am a DevOps ⚙️ Engineer committed to improving the efficiency and effectiveness of software development and deployment processes. My extensive knowledge of cloud computing, containerization, and automation enables me to drive innovation and deliver high-quality results. I am dedicated to continuously expanding my skills by staying updated with the latest DevOps tools and methodologies, and I'm always looking for new ways to optimize workflows and improve software delivery. 🤖 :)
+    Hey, my name is <em>Rushikesh Wakhre</em> and I am an Aws DevOps ⚙️ Engineer committed to improving the efficiency and effectiveness of software development and deployment processes. My extensive knowledge of cloud computing, containerization, and automation enables me to drive innovation and deliver high-quality results. I am dedicated to continuously expanding my skills by staying updated with the latest DevOps tools and methodologies. I'm always looking for new ways to optimize workflows and improve software delivery. 🤖 :)
   </samp>
   <br />
 </p>
